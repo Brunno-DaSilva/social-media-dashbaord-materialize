@@ -1,8 +1,14 @@
 # Social media dashboard
 
-Design
+### Design
+
+##### Darkmode
 
 <img src="./design/active-states-dark.jpg" alt="Design Dark mode">
+
+##### Lightmode
+
+<img src="./design/active-states-light.jpg" alt="Design Light mode">
 
 ### Title and subtitle
 
