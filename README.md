@@ -83,4 +83,4 @@ Social Media Dashboard
 
 ```
 
-###### Adapted from Frontend Mentor challenge
+###### Adapted from [Frontend Mentor](https://www.frontendmentor.io) challenge
