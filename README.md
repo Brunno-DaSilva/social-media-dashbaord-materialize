@@ -4,14 +4,18 @@ Design
 
 <img src="./design/active-states-dark.jpg" alt="Design Dark mode">
 
+### Title and subtitle
+
 ```
 Social Media Dashboard
   Total Followers: 23,004
 
   Dark Mode
+```
 
+### Social Media top information
 
-
+```
   @nathanf
   1987
   Followers
@@ -32,8 +36,11 @@ Social Media Dashboard
   Subscribers
   144 Today
 
+```
 
+### Today overview section
 
+```
   Overview - Today
 
   Page Views
@@ -67,6 +74,7 @@ Social Media Dashboard
   Total Views
   1407
   12%
+
 ```
 
 ###### Adapted from Frontend Mentor challenge
